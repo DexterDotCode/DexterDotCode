@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 🌸
 
-- 🧑🏻‍💻 I'm **Tanish Mittal**
-- 🌱 I’m currently doing iOS Development with Swift, SwiftUI and UIKit
-- 📫 How to reach me: dextercode78004@gmail.com
-- ⚡ Fun fact: I left Dentistry and started learning iOS development
-- 🧑🏼‍🍳 Hobbies: I enjoy cooking and biking in my free time.
+- 🧑🏻‍💻 Hi, I’m Tanish Mittal  
+- 🌱 Passionate about iOS development with Swift, SwiftUI, and UIKit  
+- 📫 Reach me at: dextercode78004@gmail.com  
+- ⚡ Fun fact: I made the leap from Dentistry to iOS development  
+- 🧑🏼‍🍳 Hobbies: Cooking and biking fuel my creativity outside of coding
